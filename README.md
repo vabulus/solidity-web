@@ -8,3 +8,7 @@ Quickstart:
 
 Linux Quickstart:
 ./solidity web/build/run/run in der Konsole eingeben
+
+
+# Preview
+![Preview.jpg](https://i.postimg.cc/Vs43QpZR/preview.png)
