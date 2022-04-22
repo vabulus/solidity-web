@@ -21,5 +21,5 @@ if DEBUG:
     app.logger.info('Environment = ' + get_config_mode)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, port=5001)
 
